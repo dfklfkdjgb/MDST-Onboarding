@@ -2,6 +2,8 @@
 
 # MDST Tutorials - FA25
 
+Need something to push here - Vivek
+
 ## CURRENT SETUP DOES NOT SEEM TO BE WORKING RIGHT NOW: please try to follow this setup [new_setup](https://docs.google.com/document/d/1XvD_PHtKWsCrNZ8PWdgrxzh0Yc4L6J7cnEEWAqhS7jw/edit?tab=t.0)
 
 ### Check out our onboarding website with centralized resources [here](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723)!
